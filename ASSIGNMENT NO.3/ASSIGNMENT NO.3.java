@@ -106,7 +106,9 @@ class inventorymanagement
     }
 
     private static void printMenu()
-    {
+    { 
+        System.out.println("\t Salas, Rechelle Ann C.\t");
+        System.out.println("\t BSIT 2-2 \t");
         System.out.println("\t--------------------\t");
         System.out.println("\tInventory Management\t");
         System.out.println("\t--------------------\t");
